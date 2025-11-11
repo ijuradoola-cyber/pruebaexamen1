@@ -1,6 +1,6 @@
 package examen;
 import java.util.Scanner;
-//EGUN ON LOREA
+//EGUN ON LORE
 public class examen {
 
 	public static void main(String[] args) {
